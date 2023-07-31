@@ -1,0 +1,9 @@
+code: mybundle
+description: test
+bundle-type: system-level-bundle
+components:
+  pages:
+    - pages/page_one-descriptor.yaml
+    - pages/page_two-descriptor.yaml
+  contents:
+    - contents/nws17-descriptor.yaml

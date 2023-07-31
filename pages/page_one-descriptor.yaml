@@ -1,0 +1,21 @@
+code: page_one
+parentCode: homepage
+titles:
+  en: Page_one
+  it: Page_one
+pageModel: 1-2-column
+ownerGroup: free
+joinGroups:
+  - free
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: published
+widgets:
+  - code: content_viewer
+    config:
+      contentDescription: My Content Test
+      ownerGroup: free
+      contentId: NWS17
+      joinGroups: '[free]'
+    pos: 6
